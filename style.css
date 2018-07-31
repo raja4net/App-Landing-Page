@@ -1,0 +1,123 @@
+#menu{
+            font-weight: bold;
+            
+        }
+        
+        .navbar-nav > li{
+          padding-left:25px;
+          padding-right:25px;
+        }
+        
+        .jumbotron{
+            margin-top: 25px;
+            background-color: #11A7FE;
+            border-radius: 0;
+            color:white;
+                }
+        
+        #jumbo2{
+           background-color: #DDDDDD;
+            border-radius: 0;
+            color:black; 
+        }
+        
+        #jumbo2  li{
+            margin-top:15px;
+        }
+        
+        #jumbo3{
+           background-color: white;
+            border-radius: 0;
+            color:black; 
+            margin-bottom: 0;
+        }
+        
+        #jumbo3  li{
+            margin-top: 150px;
+        }
+        
+        #jumbo4{
+            margin-top: 0;
+            background-color: #11A7FE;
+            border-radius: 0;
+            color:white;
+           
+            align-items: center;
+        }
+        #jumbo4 img{
+            display:block;
+            margin-left:auto;
+            margin-right:auto;
+            }  
+                
+        #jumbo4 h1 {
+            text-align: center;
+            padding-bottom: 30px;
+        }
+        
+       .icons {
+            width: 30%;
+                       
+        }
+        
+        .box{
+           
+           margin: 3px;
+        margin-bottom: 0;
+        }
+        
+        #downloadIcon{
+            margin-top:100px;
+            
+        }
+        
+        
+        body{
+            position: relative;
+        }
+        
+        #features:before, features:after {
+            content: "";
+            border-bottom: 5px solid grey;
+            height: 8px;
+            width: 600px;
+        }
+        
+        .liText{
+            font-family: sans-serif;
+            font-size: 15px;
+        }
+        
+        #contact {
+            background-color: black;
+            color: white;
+            text-align: center;
+            
+            
+        }
+         #contact a{
+         color:white;  
+         text-decoration: none;
+        }
+        
+        #contact a:hover {
+            color:#11A7FE;
+            
+        }
+        
+        
+            .line {
+            width: 100%;
+            content: ""
+            height: 5px;
+            border-bottom: 1px solid #11A7FE;
+        }
+            
+       a{
+         color:white;  
+         text-decoration: none;
+        }
+        
+h1 {
+    padding-top:5px;
+}
